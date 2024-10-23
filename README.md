@@ -1,4 +1,4 @@
-# Omingle
+# Omingle - Omegle Alternative
 
 Welcome to Omingle.org!
 Dive into the World of Unlimited Conversations with Omingle.org
